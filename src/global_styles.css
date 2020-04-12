@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'lineto-circle';
+    src: url('./fonts/lineto-circular-black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lineto-circle-pro';
+    src: url('./fonts/lineto-circular-pro-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lineto-circle-book';
+    src: url('./fonts/lineto-circular-pro-book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lineto-circular-book';
+    src: url('./fonts/lineto-circular-pro-bookItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'lineto-circle-pro';
+    src: url('./fonts/lineto-circular-pro-medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

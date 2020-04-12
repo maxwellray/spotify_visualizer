@@ -1,0 +1,6 @@
+export const SET_CURRENTLY_PLAYING = 'SET_CURRENTLY_PLAYING';
+export const SET_TOKEN = 'SET_TOKEN';
+export const SET_USER_PROFILE = 'SET_USER_PROFILE';
+export const SET_AUTH_CODE = 'SET_AUTH_CODE';
+
+export const GET_HUE_SOCKET = 'GET_HUE_SOCKET';
